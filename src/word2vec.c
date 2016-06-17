@@ -669,7 +669,7 @@ int ArgPos(char *str, int argc, char **argv) {
 int main(int argc, char **argv) {
   int i;
   if (argc == 1) {
-    printf("WORD VECTOR estimation toolkit v 0.1b\n\n");
+    printf("WORD Vxxx :ECTOR estimation toolkit v 0.1b\n\n");
     printf("Options:\n");
     printf("Parameters for training:\n");
     printf("\t-train <file>\n");
